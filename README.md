@@ -1,5 +1,24 @@
 # thief-os-stable
 
+remote repository for [thief-os](https://github.com/thief-hub/thief-os) 
+
+## How to use
+
+in thief-os run:
+```js
+repo add https://cdn.jsdelivr.net/gh/thief-hub/thief-os-stable/functions
+```
+
+then you can use repo to install packages from this repository
+
+```js
+repo install <package>
+```
+
+## Packages
+
+---
+
 ## Create a new function
 
 1.  Create a new file in the `functions` folder with name `yourNewFunction.function.js`
