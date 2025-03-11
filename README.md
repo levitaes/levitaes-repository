@@ -6,7 +6,7 @@ remote repository for [levitaes-cli](https://github.com/levitaes/levitaes-cli)
 
 in levitaes-cli run:
 ```js
-repo add https://cdn.jsdelivr.net/gh/thief-hub/thief-os-stable/functions
+repo add https://cdn.jsdelivr.net/gh/levitaes/levitaes-repository/functions
 ```
 
 then you can use repo to install packages from this repository
