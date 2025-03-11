@@ -1,12 +1,12 @@
-# levitaes-repository
+# shell.js-pkgs
 
-remote repository for [levitaes-cli](https://github.com/levitaes/levitaes-cli) 
+remote repository for [shell.js](https://github.com/levitaes/shell.js) 
 
 ## How to use
 
-in levitaes-cli run:
+in shell.js run:
 ```js
-repo add https://cdn.jsdelivr.net/gh/levitaes/levitaes-repository/functions
+repo add https://cdn.jsdelivr.net/gh/levitaes/shell.js-pkgs/functions
 ```
 
 then you can use repo to install packages from this repository
