@@ -1,10 +1,10 @@
-# thief-os-stable
+# levitaes-repository
 
-remote repository for [thief-os](https://github.com/thief-hub/thief-os) 
+remote repository for [levitaes-cli](https://github.com/levitaes/levitaes-cli) 
 
 ## How to use
 
-in thief-os run:
+in levitaes-cli run:
 ```js
 repo add https://cdn.jsdelivr.net/gh/thief-hub/thief-os-stable/functions
 ```
